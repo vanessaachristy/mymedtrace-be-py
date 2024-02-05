@@ -33,7 +33,7 @@ def parseMedication():
                     current_dict = {}
                     seen = set()
                 
-                current_dict[ent.text] = ent.label_
+                current_dict[ent.label_] = ent.text
                 seen.add(ent.label_)
             
             if len(current_dict) != 0:
