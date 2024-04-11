@@ -85,8 +85,4 @@ Here's a typical structure for a Flask project:
 
 ## Conclusion
 
-That's it! You've successfully set up and run a Python Flask server. Now you can start building and experimenting with your web application. Adjust the repository URL and other details as needed for your specific project.
-
---- 
-
-Adjust the project details as per your setup and share this README with your team or contributors for a smooth onboarding experience.
+That's it! You've successfully set up and run a Python Flask server. Now you can start building and experimenting with your web application.
